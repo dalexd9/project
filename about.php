@@ -23,13 +23,13 @@
 
 <section class="header">
 
-   <a href="index.php" class="logo"><img src="images/CTU.png" width="50" height="50"></a>
+   <a href="index.html" class="logo"><img src="images/CTU.png" width="50" height="50"></a>
 
    <nav class="navbar">
-      <a href="index.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">other facilities</a>
-      <a href="book.php">book</a>
+      <a href="index.html">home</a>
+      <a href="about.html">about</a>
+      <a href="package.html">other facilities</a>
+      <a href="book.html">book</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -192,10 +192,10 @@
 
       <div class="box">
          <h3>quick links</h3>
-         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> other facilities</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="index.html"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="about.html"> <i class="fas fa-angle-right"></i> about</a>
+         <a href="package.html"> <i class="fas fa-angle-right"></i> other facilities</a>
+         <a href="book.html"> <i class="fas fa-angle-right"></i> book</a>
       </div>
 
       <div class="box">
